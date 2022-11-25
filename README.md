@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dataJH
 - 👀 I’m interested in predictive analytics and data engineering.
-- 🌱 I’m currently learning how to apply my statistics and math background in machine learning.
+- 🌱 I’m currently learning how to pipe more data using open source methods.
 - 💞️ I’m looking to collaborate on data for good projects.
 - 📫 Connect with me:  linkedin.com/in/jennifer-hodgins
 
